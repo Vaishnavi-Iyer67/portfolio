@@ -10,7 +10,7 @@ I’m **Vaishnavi KN**, a 2nd year Computer Science Engineering student at
 
 ## 🔗 Visit My Portfolio Website
 👉 **Live Website:**  
-https://vaishnavi-iyer67.github.io/portfolio/
+https://Vaishnavi-Iyer67.github.io/portfolio/
 
 ---
 
