@@ -4,15 +4,8 @@ Hi 👋
 I’m **Vaishnavi KN**, a 2nd year Computer Science Engineering student at  
 **BNM Institute of Technology, Bangalore**.
 
-🚀 This repository contains the source code for my **personal portfolio website**, built using **HTML & CSS**.
+🚀 This repository contains the source code for my **personal portfolio website**, built using **HTML & CSS***
 
----
-
-## 🔗 Visit My Portfolio Website
-👉 **Live Website:**  
-https://Vaishnavi-Iyer67.github.io/portfolio/
-
----
 
 ## 🛠 Tech Used
 - HTML5
